@@ -1,0 +1,1 @@
+git -v = Check version of git
